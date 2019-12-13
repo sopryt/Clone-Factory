@@ -1,0 +1,7 @@
+D:\MSVS Projects\Clone_Factory_App\Clone_Factory_App\bin\Debug\Clone_Factory_App.exe.config
+D:\MSVS Projects\Clone_Factory_App\Clone_Factory_App\bin\Debug\Clone_Factory_App.exe
+D:\MSVS Projects\Clone_Factory_App\Clone_Factory_App\bin\Debug\Clone_Factory_App.pdb
+D:\MSVS Projects\Clone_Factory_App\Clone_Factory_App\obj\Debug\Clone_Factory_App.csprojAssemblyReference.cache
+D:\MSVS Projects\Clone_Factory_App\Clone_Factory_App\obj\Debug\Clone_Factory_App.csproj.CoreCompileInputs.cache
+D:\MSVS Projects\Clone_Factory_App\Clone_Factory_App\obj\Debug\Clone_Factory_App.exe
+D:\MSVS Projects\Clone_Factory_App\Clone_Factory_App\obj\Debug\Clone_Factory_App.pdb

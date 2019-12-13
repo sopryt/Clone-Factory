@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Clone_Factory_App.Abstract_Assignables.Division">
+    <Position X="10.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract Assignables\Division.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Abstract_Assignables.Rank">
+    <Position X="10.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract Assignables\Rank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Abstract_Assignables.UniqueEquipment">
+    <Position X="3" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract Assignables\UniqueEquipment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Abstract_Assignables.Weapon">
+    <Position X="3" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract Assignables\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Assignables.Division2">
+    <Position X="11.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assignables\Division\Division2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Assignables.Division504">
+    <Position X="13" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assignables\Division\Division504.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Assignables.Division527">
+    <Position X="7.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assignables\Division\Division527.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Assignables.Division758">
+    <Position X="9.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assignables\Division\Division758.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Assignables.Rank1">
+    <Position X="7.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assignables\Rank\Rank1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Assignables.Rank3">
+    <Position X="9.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assignables\Rank\Rank3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Assignables.Rank4">
+    <Position X="11.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assignables\Rank\Rank4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Assignables.Rank7">
+    <Position X="13" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assignables\Rank\Rank7.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Assignables.Camouflage">
+    <Position X="0.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assignables\Unique Equipment\Camouflage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Assignables.Grenade">
+    <Position X="2.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assignables\Unique Equipment\Grenade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Assignables.HeavyArmour">
+    <Position X="4" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assignables\Unique Equipment\HeavyArmour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Assignables.Relaxant">
+    <Position X="5.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assignables\Unique Equipment\Relaxant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Assignables.MachineGun">
+    <Position X="4" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assignables\Weapons\MachineGun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Assignables.Pistol">
+    <Position X="5.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assignables\Weapons\Pistol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Assignables.Rifle">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assignables\Weapons\Rifle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Assignables.SniperRifle">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assignables\Weapons\SniperRifle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Clone">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAIEAAAAAAAAAAAIAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.CloneFactory">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAACAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CloneFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Program">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Soldiers.MachineGunnerFactory">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAACAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Soldiers\MachineGunnerFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Soldiers.ScoutFactory">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAACAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Soldiers\ScoutFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Soldiers.SniperFactory">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAACAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Soldiers\SniperFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clone_Factory_App.Soldiers.StormTrooperFactory">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAACAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Soldiers\StormTrooperFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
